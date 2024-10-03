@@ -10,7 +10,7 @@
 }
 
 h1, h2 {
-  color: #333;
+  color: #5f1b1b;
 }
 
 .expense-form, .expense-list, .budget-dashboard, .budget-summary {
@@ -28,7 +28,7 @@ table {
 }
 
 table th, table td {
-  border: 1px solid #ddd;
+  border: 1px solid #918d8d;
   padding: 8px;
   text-align: left;
 }
@@ -40,11 +40,11 @@ table th, table td {
 }
 
 .alert-warning {
-  background-color: #fff3cd;
+  background-color: #f5e09b;
   color: #856404;
 }
 
 .alert-danger {
-  background-color: #f8d7da;
+  background-color: #f5e09b;
   color: #721c24;
 }
